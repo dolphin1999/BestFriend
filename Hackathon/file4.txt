@@ -1,0 +1,224 @@
+i am not doing well in my life .	0
+i cant code .	0
+my code is not running .	0
+i am hungry .	0
+i am feeling cold .	0
+i could not win that event .	0
+i lost it .	0
+i wont it .	1
+he is scolding me .	0
+he praised me today .	1
+my life is hell .	1
+she did better than me .	0
+he is very biased .	0
+i enjoy coding .	1
+we are not compatible .	0
+i could not wake up this morning .	0
+i woke up late .	0
+i saw a bad dream .	0
+i am very cute .	1
+i have no money .	0
+my health is not well .	0
+i am feeling sick .	0
+i like that guy .	1
+he did not reply .	0
+i dont want to talk to him .	0
+she does not want me to do well .	0 
+i am feeling weak .	0
+my head hurts .	0
+i dont want to go out .	0
+finally i am getting result of my hardwork .	1
+my friend is giving treat .	1
+my hairs are growing .	1
+i m looking good today .	1
+my hairs are looking good today .	1
+i am having hair fall .	0
+i want to go for shopping .	1
+i wish i could live her life .	0
+he does not like me .	0
+i am missing home .	0
+i bought new dress .	1
+i am feeling stressed .	0
+i am sweating .	0
+its very hot .	0
+i broke my watch .	0
+atm machine was not working .	0
+my teeth look yellow .	0
+she ignoned me .	0
+i like being with her .	1
+she is my best friend .	1
+i am going for party today .	1
+they are taking too much dowry .	0
+i slept late yesterday .	0
+i could not sleep last night .	0
+he did not call last night .	0
+i missed the train .	0
+train arrived late .	0
+the bathroom was stinking .	0
+i am proud of being part of my college .	1
+i am proud of my friends .	1
+they love me .	1
+they care for me .	1
+i feel excluded .	0
+my laptop is not working .	0
+my chips are over .	0
+internet is not working .	0
+we broke up .	0
+i want to play games .	1
+the song is not downloading .	0
+the food was bad .	0
+my mom is not proud of me .	0
+i am not getting internship .	0
+i got internship .	1
+my room is messed up .	0
+my room is not cleaned .	0
+i have no friends .	0
+i look ugly .	0
+no medicine is working for me .	0
+i forgot to bring my watch .	0
+prices are getting high .	0
+it is very expensive .	0
+is is cheap .	1
+he is cheap .	0
+he is a pervert .	0
+he is concerned about me .	1
+one day i will achieve great success .	1
+i have to wash my clothes .	0
+my phone was discharged .	0
+no one messages me .	0
+i m feeling free .	1
+exams are coming .	0
+i have to do assignment .	0
+i dont know anything .	0
+we kissed today .	1
+i am afraid .	0
+they ragged me .	0
+she got raped .	0
+i got physically harassed .	0
+i got mentally hasrassed .	0
+it is not nice .	0
+i got pimple on my face .	0
+i got one spot on my face .	0
+new song came .	1
+i burnt my hand .	0
+my ear phones are not working .	0
+they dont respect my feelings .	0
+i am losing feelings for her .	0
+i want to paint .	1
+i want to draw .	1
+this pic is nice .	1
+she abused me .	0
+i am dying .	0
+i am feeling pain in my joint .	0
+i have to go to a doctor .	0
+i completed my project .	1
+it is working now .	1
+she gave me treat .	1
+hi pretty .	1
+i am feeling warm and cozy .	1
+it was a delightful evening .	1
+i missed my friends birthday .	0
+it is my birthday today .	1
+it enhanced my life .	1
+india won the match .	1
+india lost the match .	0
+i like going to park .	1
+there are birds and flowers and trees .	1
+i am happy to hear that .	1
+she was very kind to me .	1
+she looks beautiful .	1
+they were not there when i needed them .	0
+i am happy to help .	1
+she has a smiling face .	1
+i was very happy to write to him because i like him and love him .	1
+i am happy to get rid of him .	1
+nobody came to help me .	0
+you are bad .	0
+you are sexy .	1
+i like your clothes .	1
+you smell good .	1
+it is stinking .	0
+virat kohli is awesome .	1
+gif image is not blitting .	0
+he is trying to copy my project .	0
+i am getting fat .	0
+i am short .	0
+i am tall .	1
+i am too tall .	0
+my family doesnot love me .	0
+i did not get enought food yesterday .	0
+food got over .	0
+i need motivation .	0
+my life is going down .	0
+i am becoming a failure .	0
+my mom cooked good food today .	1
+my mom cooks nice .	1
+i had nice food today .	1
+i am not gettin tea .	0
+she is talking to my enemy .	0
+she is talking to my crush .	0
+my crush messaged me today .	1
+i am very tensed .	0
+i am getting irritated .	0
+the party is over .	0
+today is hot .	0
+todays weather is not good .	0
+i thought he would look at me but he did not .	0
+i am not getting attention .	0
+i am not getting my prize .	0
+my hairs are frizzy .	0
+i like to look in the mirror .	0
+i am not surprised that you are sympathized .	0
+i am not getting pension .	0
+i am not getting job .	0
+i looked beautiful today .	1
+everyone complimented me today .	1
+i am getting frustated .	0
+my heart is sinking .	0
+my heart feels heavy .	0
+i do not want to talk to anyone .	0
+i watched a movie today .	1
+i enjoyed it .	1
+my phone is discharged .	0
+no body messages me .	0
+my game is not working .	0
+i wasted my time, money, energy .	0
+she is a slut .	0
+he used me .	0
+i said go fuck off .	0
+i am losing hope .	0
+i am feeling hopeful .	1
+i want to cry .	0
+my colddrink is very tasty .	1
+should i cry .	0
+it is not my mistake .	0
+he is cute .	1
+coffee is not tasty .	0
+i miss my hometown .	0
+i dont like this work .	0
+my battery is discharged .	0
+i miss school days .	0
+i dont like being here .	0
+no one understands me .	0
+lets nacho .	1
+lets play .	1
+i am thirsty .	0
+i hope we win .	1
+we can never win .	0
+i need a a counsellor .	0
+he is not letting me do anything .	0
+she is not letting me do anything .	0
+lets party .	1
+lets sing songs .	1
+i want to hear sad songs .	0
+i am getting annoyed .	0
+she ditched me .	0
+god is my only and last hope .	0
+no one came forward to help me at my bad times .	0
+i like chips .	1
+i like him .	1
+i like her .	1
+i dont like chips .	0
+i dont like him .	0
+my phone broke .	0
+my ear phones are not working .	0
